@@ -19,7 +19,7 @@ This Python project aimed to streamline a monthly task, where an individual had 
 <br><br>
 Version 1 - 07/feb/2024
 ------------------------------------------------------------------------------
-<br>(In Portuguese)
+<br>(In Portuguese)<br>
 **<ins>Projeto ETL em Python - Dado de um arquivo PDF para o Excel</ins>**
 
 O código é essencialmente um script de extração e processamento de dados de arquivos PDF relacionados às informações da conta de energia, tendo como resultado final um arquivo Excel contendo os dados extraídos.<br>
