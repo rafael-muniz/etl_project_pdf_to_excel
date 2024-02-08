@@ -17,6 +17,7 @@ This Python project aimed to streamline a monthly task, where an individual had 
 8) It creates an Excel file using xlwings library, places the DataFrame into the file, and adds some additional information in specific cells.
 9) It determines the operating system and opens the saved Excel file accordingly.
 <br><br>
+
 Version 1 - 07/feb/2024
 ------------------------------------------------------------------------------
 <br>(In Portuguese)<br><br>
