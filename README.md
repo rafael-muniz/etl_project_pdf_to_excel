@@ -19,6 +19,7 @@ This Python project aimed to streamline a monthly task, where an individual had 
 <br><br>
 
 Version 1 - 07/feb/2024
+
 ------------------------------------------------------------------------------
 <br>(In Portuguese)<br><br>
 **<ins>Projeto ETL em Python - Dado de um arquivo PDF para o Excel</ins>**
