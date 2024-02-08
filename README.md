@@ -2,9 +2,9 @@
 
 **<ins>ETL project - Data from PDF file to Excel</ins>**
 
-The code is essentially a data extraction and processing script for PDF files related to energy bill information, with the final result being an Excel file containing the extracted data.
+The code is essentially a data extraction and processing script for PDF files related to energy bill information, with the final result being an Excel file containing the extracted data.<br>
 It is an ETL project for Cosern's enegy bill (a Brazilian energy company situated in the Northeast of Brazil - in the State of Rio Grande do Norte), for customers served in low voltage. <br><br>
-This was a project 
+This Python project aimed to streamline a monthly task, where an individual had to manually open each PDF document, extract specific values, and perform calculations. With this script, the individual can now automate this process, saving significant time and effort. By compiling all desired information into a single Excel file, the individual can efficiently review and copy the required data, eliminating the need for repetitive manual tasks. This approach enhances efficiency, allowing for a more streamlined and effective workflow, ultimately saving valuable time and resources. 
 
 **<ins>This code performs the following tasks:</ins>**
 1) It gets the current directory and lists all files in it, filtering only PDF files.
