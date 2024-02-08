@@ -1,10 +1,10 @@
 # ETL project - PDF to Excel
-ETL project - Data from PDF file to Excel
+### ETL project - Data from PDF file to Excel
 
 The code is essentially a data extraction and processing script for PDF files related to energy bill information, with the final result being an Excel file containing the extracted data.
-It is an ETL project for Cosern's enegy bill (a Brazilian energy company situated in the Northeast of Brazil - in the State of Rio Grande do Norte), for users for customers served in low voltage.
+It is an ETL project for Cosern's enegy bill (a Brazilian energy company situated in the Northeast of Brazil - in the State of Rio Grande do Norte), for customers served in low voltage.
 
-<ins>This code performs the following tasks:</ins>
+**<ins>This code performs the following tasks:</ins>**
 1) It gets the current directory and lists all files in it, filtering only PDF files.
 2) It defines an empty list data to store extracted information.
 3) It iterates over each PDF file in the directory and performs different operations based on the file name.
