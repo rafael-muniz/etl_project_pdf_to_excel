@@ -1,5 +1,5 @@
 # ETL project - PDF to Excel
-## ETL project - Data from PDF file to Excel
+**<ins>ETL project - Data from PDF file to Excel</ins>**
 
 The code is essentially a data extraction and processing script for PDF files related to energy bill information, with the final result being an Excel file containing the extracted data.
 It is an ETL project for Cosern's enegy bill (a Brazilian energy company situated in the Northeast of Brazil - in the State of Rio Grande do Norte), for customers served in low voltage.
